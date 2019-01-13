@@ -1,4 +1,4 @@
-CHAT
+CHAT_NEW
 FreePBX_CORP
 MySQL_Archive
 Zabbix
